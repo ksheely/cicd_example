@@ -46,8 +46,6 @@ It will:
 - install dependencies
 - run `pytest`
 
-## Suggested Student Extensions
+## In class, let's try...
 - Add more functions and tests
-- Add linting with `flake8` or `ruff`
-- Add code coverage
-- Add a failing test, then fix the code
+- use set-output to add an output
