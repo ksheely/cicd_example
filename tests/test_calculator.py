@@ -23,4 +23,4 @@ def test_divide_by_zero():
         divide(10, 0)
 
 def test_square_root():
-    assert squareroot(9) == 9
+    assert squareroot(9) == 3
